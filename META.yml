@@ -1,0 +1,24 @@
+---
+abstract: 'give names to source code lines'
+author:
+  - 'Nick Cleaton <nick@cleaton.net>'
+build_requires:
+  Test::More: 0
+configure_requires:
+  Module::Build: 0.36
+generated_by: 'Module::Build version 0.3603'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Test-LineName
+provides:
+  Test::LineName:
+    file: lib/Test/LineName.pm
+    version: 0.01
+requires:
+  Carp: 0
+  perl: 5.006001
+resources:
+  license: http://dev.perl.org/licenses/
+version: 0.01

@@ -1,0 +1,17 @@
+Build.PL
+Changes
+lib/Test/LineName.pm
+MANIFEST			This list of files
+README
+t/error.t
+t/linename.t
+xt/checkchanges.t
+xt/cpanmeta.t
+xt/hasversion.t
+xt/kwalitee.t
+xt/minimumversion.t
+xt/nobadtext.t
+xt/pod-coverage.t
+xt/pod.t
+Makefile.PL
+META.yml
